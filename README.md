@@ -10,8 +10,8 @@
 
 * 折線圖 Line Chart
 
-![Line Chart](Custom-Chart/Line Chart.gif)
+![Line Chart](Line Chart.gif)
 
 * 圓餅圖 Pie Chart
 
-![Pie Chart](Custom-Chart/Pie Chart.png)
+![Pie Chart](Pie Chart.png)
