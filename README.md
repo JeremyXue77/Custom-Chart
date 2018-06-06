@@ -10,8 +10,8 @@
 
 * 折線圖 Line Chart
 
-![Line Chart](Line Chart.gif)
+  ![Alt text](Line Chart.gif)
 
 * 圓餅圖 Pie Chart
 
-![Pie Chart](Pie Chart.png)
+  ![Alt text](Pie Chart.png)
