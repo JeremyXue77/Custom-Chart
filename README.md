@@ -10,8 +10,8 @@
 
 * 折線圖 Line Chart
 
-![Line Chart](/Users/jeremyxue/Desktop/Custom Chart/Custom-Chart/Line Chart.gif)
+![Line Chart](Custom-Chart/Line Chart.gif)
 
 * 圓餅圖 Pie Chart
 
-![Pie Chart](/Users/jeremyxue/Desktop/Custom Chart/Custom-Chart/Pie Chart.png)
+![Pie Chart](Custom-Chart/Pie Chart.png)
