@@ -10,8 +10,8 @@
 
 * 折線圖 Line Chart
 
-  ![Alt text](Line Chart.gif)
+  ![Alt text](https://github.com/JeremyXue77/Custom-Chart/blob/master/Line%20Chart.gif)
 
 * 圓餅圖 Pie Chart
 
-  ![Alt text](Pie Chart.png)
+  ![Alt text](https://github.com/JeremyXue77/Custom-Chart/blob/master/Pie%20Chart.png)
